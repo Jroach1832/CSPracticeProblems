@@ -8,4 +8,3 @@ class Ch1P11
         Console.WriteLine(age + 10);
     }
 }
-
