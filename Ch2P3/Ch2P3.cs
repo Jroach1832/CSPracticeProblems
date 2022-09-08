@@ -5,7 +5,7 @@ class Ch2P3
     static void Main()
     {
         //Setting our tolerance for error
-        double tolerance = 0.000001;
+        double tolerance = 0.0000000000001;
 
         //These are "equal"
         double x = 0.123456789987;

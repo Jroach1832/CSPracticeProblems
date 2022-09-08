@@ -9,7 +9,7 @@ class Ch2P1
     static void Main()
     {
         //Un-comment to run
-        //ushort x = 52130;
+        ushort x = 52130;
         //sbyte x = -115;
         //uint x = 4825932;
         //byte x = 97;
@@ -21,8 +21,9 @@ class Ch2P1
         //sbyte x = -44;
         //int x = -1000000;
         //ushort x = 1990;
-        ulong x = 123456789123456789;
+        //ulong x = 123456789123456789;
 
         Console.WriteLine(x);
+        
     }
 }
