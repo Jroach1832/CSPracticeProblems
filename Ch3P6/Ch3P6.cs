@@ -5,11 +5,11 @@ public class Ch3P6
     static void Main()
     {
         //Reading width from user input
-        Console.WriteLine("Enter the width: "); 
+        Console.Write("Enter the width: "); 
         int width = Convert.ToInt32(value: Console.ReadLine());
 
         //Reading height from user input
-        Console.WriteLine("Enter the height: ");
+        Console.Write("Enter the height: ");
         int height = Convert.ToInt32(value: Console.ReadLine());
 
         //Calculations
