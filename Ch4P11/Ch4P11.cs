@@ -32,9 +32,9 @@ public class Ch4P11
 
         Console.WriteLine(first);
 
-        for (int i = 0; i < 98; i++)
+        for (int i = 0; i < 100; i++)
         {
-            Console.WriteLine(second);
+            Console.WriteLine("Iteration: {0}, Number: {1}", i, second);
             double temp = (first + second);
             first = second;
             second = temp;
